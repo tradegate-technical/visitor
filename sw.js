@@ -2,7 +2,7 @@ const CACHE_NAME = 'visitor-app-v1';
 const urlsToCache = [
     '/',
     '/index.html',
-    '/Meer capital logo.png',
+    '/logo.png',
     '/manifest.json'
 ];
 
