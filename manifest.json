@@ -3,7 +3,7 @@
     "short_name": "VisitorApp",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#f8fafc",
+    "background_color": "#ffffff",
     "theme_color": "#E1D46C",
     "description": "Secure and efficient visitor tracking system",
     "icons": [
